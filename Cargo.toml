@@ -7,7 +7,7 @@ description = "A simple function to assert that two numbers are close to each ot
 
 documentation = "https://docs.rs/assert-be-close"
 homepage = "https://crates.io/crates/assert-be-close"
-repository = "https://github.com/azishio/assert-be-close"
+repository = "https://github.com/azishio/assert-be-close-rs"
 
 readme = "README.md"
 

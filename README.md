@@ -38,3 +38,5 @@ Licensed under either of
 + MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
 
 at your option.
+
+(The English in the README and comments in the source code were translated by DeepL.)

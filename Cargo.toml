@@ -1,9 +1,18 @@
 [package]
 name = "assert-be-close"
-version = "0.1.0"
+version = "1.0.0"
+authors = ["azishio"]
 edition = "2021"
+description = "A simple function to assert that two numbers are close to each other."
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+documentation = "https://docs.rs/assert-be-close"
+homepage = "https://crates.io/crates/assert-be-close"
+repository = "https://github.com/azishio/assert-be-close"
+
+readme = "README.md"
+
+keywords = ["assert", "float", "close", "approximate"]
+categories = ["development-tools::debugging", "development-tools::testing"]
 
 [dependencies]
 num = "0.4.2"

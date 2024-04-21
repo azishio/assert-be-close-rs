@@ -1,6 +1,6 @@
 [package]
 name = "assert-be-close"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["azishio"]
 edition = "2021"
 description = "A simple function to assert that two numbers are close to each other."

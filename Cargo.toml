@@ -13,6 +13,7 @@ readme = "README.md"
 
 keywords = ["assert", "float", "close", "approximate"]
 categories = ["development-tools::debugging", "development-tools::testing"]
+license = "MIT OR Apache-2.0"
 
 [dependencies]
 num = "0.4.2"

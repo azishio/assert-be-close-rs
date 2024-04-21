@@ -29,3 +29,12 @@ Check for non-equivalence with arbitrary precision.
 assert_not_close(1.0, 1.0001, 4);
 assert_not_close(1.0, 1.0001, 3); // panic
 ```
+
+## ライセンス
+
+Licensed under either of
+
++ Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
++ MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+
+at your option.

@@ -1,5 +1,9 @@
 # assert-be-close-rs
 
+## This crate has been moved to [close-to-rs](https://crates.io/crates/close-to).
+## このクレートは[close-to-rs](https://crates.io/crates/close-to)に移動しました。
+
+
 Provides functions to verify the equivalence of floating-point numbers at arbitrary precision.
 
 任意の精度で浮動小数点数の等価性を検証するための関数を提供します。
